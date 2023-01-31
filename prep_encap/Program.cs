@@ -1,4 +1,5 @@
 ﻿using System;
+namespace Fraction;
 
 public class Program{
     static void Main(){
