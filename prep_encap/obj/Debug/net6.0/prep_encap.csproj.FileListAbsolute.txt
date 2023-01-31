@@ -1,0 +1,15 @@
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\bin\Debug\net6.0\prep_encap.exe
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\bin\Debug\net6.0\prep_encap.deps.json
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\bin\Debug\net6.0\prep_encap.runtimeconfig.json
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\bin\Debug\net6.0\prep_encap.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\bin\Debug\net6.0\ref\prep_encap.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\bin\Debug\net6.0\prep_encap.pdb
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\obj\Debug\net6.0\prep_encap.csproj.AssemblyReference.cache
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\obj\Debug\net6.0\prep_encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\obj\Debug\net6.0\prep_encap.AssemblyInfoInputs.cache
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\obj\Debug\net6.0\prep_encap.AssemblyInfo.cs
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\obj\Debug\net6.0\prep_encap.csproj.CoreCompileInputs.cache
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\obj\Debug\net6.0\prep_encap.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\obj\Debug\net6.0\ref\prep_encap.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\obj\Debug\net6.0\prep_encap.pdb
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_encapsulation\prep_encap\obj\Debug\net6.0\prep_encap.genruntimeconfig.cache
