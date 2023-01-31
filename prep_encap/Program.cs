@@ -17,5 +17,8 @@ public class Program{
         Console.WriteLine($"Private variable NUMERATOR: {fraction.get_numerator()}");
         Console.WriteLine($"Private variable DENOMINATOR: {fraction.get_denominator()}");
         Console.WriteLine();
+
+        // // Printing the numerator and denominator using the fraction object
+        // Console.WriteLine(fraction.get_fraction_string(fraction.get_numerator, fraction.get_denominator));
     }
 }

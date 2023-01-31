@@ -23,7 +23,7 @@ public class Fraction{
         return denominator;
     }
 
-    // public string get_fraction_string(int first_num, int second_num){
-
-    // }
+    public void get_fraction_string(int first_num, int second_num){
+        Console.WriteLine($"This is the fraction in a formatted string: {first_num} / {second_num}");
+    }
 }
